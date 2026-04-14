@@ -55,8 +55,8 @@ I'm Yakshith, an undergrad passionate about building impactful tech 🚀
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakshithmekala&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshithmekala&layout=compact&theme=tokyonight" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=yakshithmekala&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshithmekala&layout=compact&theme=tokyonight" height="150"/> -->
 </p>
 
 <p align="center">
