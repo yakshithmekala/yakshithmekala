@@ -33,10 +33,9 @@
 
 I'm Yakshith, an undergrad passionate about building impactful tech 🚀
 
-* 🤖 Exploring AI, ML & intelligent systems
+* 🤖 Exploring AI, ML & intelligent systems & Data Engeneering.
 * 🌐 Developing full-stack applications
 * 📈 Focused on consistent growth
-* 🎯 Target: Placements + GATE 2026
 
 ---
 
@@ -44,7 +43,7 @@ I'm Yakshith, an undergrad passionate about building impactful tech 🚀
 
 * 📘 Practicing Data Structures & Algorithms
 * 🛠️ Building real-world projects
-* 🚀 Improving system design thinking
+* 🚀 Improving system design thinking AI/ML
 
 ---
 
@@ -81,4 +80,10 @@ I'm Yakshith, an undergrad passionate about building impactful tech 🚀
 * 🎧 Music during coding
 * 🚗 Cars, speed & long drives
 
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/yakshithmekala/yakshithmekala/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
