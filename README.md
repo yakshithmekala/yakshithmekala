@@ -63,13 +63,7 @@ I'm Yakshith, an undergrad passionate about building impactful tech 🚀
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakshithmekala&theme=tokyonight" />
 </p>
 
----
 
-## 🧠 Philosophy
-
-> “Consistency beats intensity.”
-
----
 
 ## ⚡ Beyond Code
 
