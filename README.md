@@ -2,7 +2,7 @@
 <h1 align="center">Heya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Full+Stack+Developer;Consistent+Builder;Future+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Full+Stack+Developer;Yakshith+Reddy" />
 </p>
 
 <p align="center">
